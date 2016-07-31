@@ -1,0 +1,14 @@
+{
+  "name": "framework7-angularjs",
+  "homepage": "https://github.com/ashvin777/bower-framework7-angularjs",
+  "_release": "344bc21abc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "344bc21abc53baa7ea264b97bba26146ec29a078"
+  },
+  "_source": "https://github.com/ashvin777/bower-framework7-angularjs.git",
+  "_target": "*",
+  "_originalSource": "framework7-angularjs",
+  "_direct": true
+}
